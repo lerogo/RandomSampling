@@ -1,0 +1,10 @@
+F:\000000000000000files\大学相关\各种好玩的\抽奖源码\新电光18\bin\Release\电光18抽奖.exe.config
+F:\000000000000000files\大学相关\各种好玩的\抽奖源码\新电光18\bin\Release\电光18抽奖.exe
+F:\000000000000000files\大学相关\各种好玩的\抽奖源码\新电光18\bin\Release\电光18抽奖.pdb
+F:\000000000000000files\大学相关\各种好玩的\抽奖源码\新电光18\obj\x86\Release\随机选择.csprojAssemblyReference.cache
+F:\000000000000000files\大学相关\各种好玩的\抽奖源码\新电光18\obj\x86\Release\随机选择.Form1.resources
+F:\000000000000000files\大学相关\各种好玩的\抽奖源码\新电光18\obj\x86\Release\随机选择.Properties.Resources.resources
+F:\000000000000000files\大学相关\各种好玩的\抽奖源码\新电光18\obj\x86\Release\随机选择.csproj.GenerateResource.cache
+F:\000000000000000files\大学相关\各种好玩的\抽奖源码\新电光18\obj\x86\Release\随机选择.csproj.CoreCompileInputs.cache
+F:\000000000000000files\大学相关\各种好玩的\抽奖源码\新电光18\obj\x86\Release\电光18抽奖.exe
+F:\000000000000000files\大学相关\各种好玩的\抽奖源码\新电光18\obj\x86\Release\电光18抽奖.pdb
