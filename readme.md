@@ -1,5 +1,11 @@
-用c#写的随机选择并带有证件照显示的抽奖小软件
-具体使用可以看：[我的博客](https://www.lerogo.top)||
-[软件预览点这里](https://www.lerogo.top/2019/essay/%e8%ae%b0%e5%bd%95/%e5%85%b6%e4%bb%96/sjxzdmcjrj/167/)
+[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu) [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
+## 爬虫、算法模板、小代码（java、python、c/c++)
+ ### 关于本仓库
+ - [@lerogo](https://github.com/lerogo/ "@lerogo"), 我的[博客](https://www.lerogo.top/)，如果你想[给我点钱买奶茶](https://www.lerogo.top/pay/)🤣
+ - 推荐：[简单搜索](https://www.lerogo.top/search/) 一款没有广告，适合开发者的搜索网页
+ - 2019-11-20 14:31:27 星期三
+------------
+### 说明
+ - 用c#写的随机选择并带有证件照显示的抽奖小软件。[点此预览](https://www.lerogo.top/2019/essay/%e8%ae%b0%e5%bd%95/%e5%85%b6%e4%bb%96/sjxzdmcjrj/167/)
 
-代码很烂，很久之前弄得了，修修改改，随意参考，不喜勿喷
+------------
